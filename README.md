@@ -39,4 +39,4 @@ npm run dev      # 개발 서버 실행 (http://localhost:3000)
 Next.js와 TypeScript 기반 환경 세팅부터 설치, 오류 해결, 코드 작성까지 직접 진행하며 구조와 동작 원리를 학습했습니다.
 
 ## 🖼️ 스크린샷
-![alt text](image-1.png)
+<img width="1920" height="955" alt="dashboard" src="https://github.com/user-attachments/assets/84129002-2d13-4a3b-a76f-7ae0bf5eb40b" />
