@@ -2,7 +2,7 @@
 
 ##  개요
 
-Next.js 15 · React 19 · TypeScript 5로 만든 **탄소 배출량 분석 대시보드** 입니다.  
+Next.js 15 · React 19 · TypeScript 5로 만든 **탄소 배출량 대시보드** 입니다.  
 
 회사별·월별 CO₂ 배출량을 시각화하고, KPI 카드와 다크모드 등 인터렉티브한 UI를 제공합니다.
 
@@ -39,4 +39,4 @@ npm run dev      # 개발 서버 실행 (http://localhost:3000)
 Next.js와 TypeScript 기반 환경 세팅부터 설치, 오류 해결, 코드 작성까지 직접 진행하며 구조와 동작 원리를 학습했습니다.
 
 ## 🖼️ 스크린샷
-![alt text](image-1.png)
+<img width="1920" height="955" alt="dashboard" src="https://github.com/user-attachments/assets/84129002-2d13-4a3b-a76f-7ae0bf5eb40b" />
